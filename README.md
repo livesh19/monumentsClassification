@@ -57,9 +57,11 @@ pip install -r requirements.txt
 Clone the repository:
 
 git clone https://github.com/<your-username>/monument-classification.git
+
 Navigate to the project directory:
 
 cd monument-classification
+
 Install the dependencies:
 
 pip install -r requirements.txt
