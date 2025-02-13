@@ -66,5 +66,5 @@ pip install -r requirements.txt
 
 Run the python file:
 ```bash
-python mani.py
+python monumentClassify.py
 ```
