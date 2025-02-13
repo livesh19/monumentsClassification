@@ -52,16 +52,19 @@ Make sure you have the following installed:
 You can install the required Python packages using:
 ```bash
 pip install -r requirements.txt
-
+```
 
 Clone the repository:
-
+```bash
 git clone https://github.com/<your-username>/monument-classification.git
+```
 
 Navigate to the project directory:
-
+```bash
 cd monument-classification
+```
 
 Install the dependencies:
-
+```bash
 pip install -r requirements.txt
+```
